@@ -5,6 +5,8 @@
 @section('content')
 <div class="max-w-4xl mx-auto mt-6 space-y-5">
 
+    {{-- Amélioration du profil - Hymo19 --}}
+
     {{-- ─── Carte Profil ───────────────────────────────────── --}}
     <div class="bg-white rounded-2xl shadow">
 
