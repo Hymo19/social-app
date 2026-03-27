@@ -1,7 +1,8 @@
 @extends('layouts.app')
 @section('title', 'Feed')
 @section('content')
-
+{{-- amélioration de la page posts --}}
+{{-- modification accidentelle sur master --}}
 <style>
 .post-truncated{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
 .reaction-popup-cm{display:none;position:absolute;bottom:calc(100% + 6px);left:0;background:white;border:1px solid #e5e7eb;border-radius:999px;padding:5px 10px;box-shadow:0 8px 24px rgba(0,0,0,0.13);white-space:nowrap;z-index:60;}
